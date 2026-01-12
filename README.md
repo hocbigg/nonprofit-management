@@ -26,17 +26,10 @@ The Nonprofit Management curriculum is a **complete education in Nonprofit Manag
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
 
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-
-- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
-- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
 
 **[How to contribute](/CONTRIBUTING.html)**
 
 # Communities
-
-## Online Communities for Nonprofit Management
 
 - Forums:
   - [TechSoup Global Community Forums](https://forums.techsoup.org/)
@@ -45,71 +38,111 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
   - [r/nonprofit](https://www.reddit.com/r/nonprofit/)
   - [r/Philanthropy](https://www.reddit.com/r/Philanthropy/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/nonprofit-management/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
+- [I. Foundations of the Nonprofit Sector](#i-foundations-of-the-nonprofit-sector)
+- [II. Governance, Law, and Ethics](#ii-governance-law-and-ethics)
+- [III. Financial and Human Systems](#iii-financial-and-human-systems)
+- [IV. Programs, Evaluation, and Impact](#iv-programs-evaluation-and-impact)
+- [V. External Relations and Resource Development](#v-external-relations-and-resource-development)
+- [VI. Strategy, Leadership, and Organizational Change](#vi-strategy-leadership-and-organizational-change)
+- [VII. Specialized and Adjacent Domains](#vii-specialized-and-adjacent-domains)
 
-## Intro Nonprofit Management
+## How to use this curriculum
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Introduction to the Nonprofit Sector | To gain an overview of the history, roles, scope, and societal impact of nonprofits, distinguishing them from for-profit and government entities, and understanding their unique challenges and contributions. | [Nonprofit Management: Principles and Practice by Michael J. Worth](https://www.amazon.com/Nonprofit-Management-Principles-Practice-Worth/dp/1506396860) | [Introduction to the Nonprofit Sector, Nonprofit Organizations, Nonprofit Leadership and Governance](https://www.coursera.org/learn/nonprofit-organizations) (Coursera, University at Buffalo - audit free) |
-| Principles of Management for Nonprofits | To adapt general management theories to nonprofit contexts, focusing on mission-driven decision-making, organizational structures, and basic leadership skills essential for effective operations. | [Managing the Non-Profit Organization: Principles and Practices by Peter F. Drucker](https://archive.org/details/managingnonprofi0000druc) (free borrow on Internet Archive) | [Nonprofit Management Essentials](https://www.nonprofitready.org/) (NonprofitReady - various free courses covering principles) |
+### Core Sections
 
-## Core Nonprofit Management
+Study them **in this exact order**:
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Nonprofit Accounting and Financial Management | To master financial stewardship, including budgeting, reporting, auditing, and compliance, ensuring fiscal responsibility and sustainability in resource-limited environments. | [Accounting for Governmental & Nonprofit Entities by Jacqueline L. Reck, Suzanne Lowensohn, and Daniel Neely](https://www.amazon.com/Accounting-Governmental-Nonprofit-Entities-Jacqueline-ebook/dp/B09968GYKH) | [Nonprofit Financial Stewardship: Introduction to Accounting and Financial Statements](https://pll.harvard.edu/course/nonprofit-financial-stewardship-webinar-introduction-accounting-and-financial-statements) (Harvard - free webinar series) / Various free courses on [NonprofitReady.org](https://www.nonprofitready.org/nonprofit-finance-courses) |
-| Fundraising and Resource Development | To learn strategies for securing diverse funding sources, donor cultivation, and revenue generation, which are critical for nonprofit viability and mission fulfillment. | [Fundraising Principles and Practice by Adrian Sargeant and Jen Shang](https://www.amazon.com/Fundraising-Principles-Practice-Adrian-Sargeant/dp/1119196493) | Various free fundraising courses on [NonprofitReady.org](https://www.nonprofitready.org/free-fundraising-courses) |
-| Nonprofit Governance and Law | To understand board roles, legal frameworks, compliance requirements, and governance best practices, preventing risks and promoting accountable leadership. | [Nonprofit Governance: Law, Practices, and Trends by Bruce R. Hopkins and Virginia C. Gross](https://www.amazon.com/Nonprofit-Governance-Law-Practices-Trends/dp/0470358041) | [Introduction to Nonprofit Law](https://www.coursera.org/learn/introduction-to-nonprofit-law) (Coursera, University of Pennsylvania - audit free) / Free board governance courses on [NonprofitReady.org](https://www.nonprofitready.org/board-governance-courses) |
-| Strategic Planning and Leadership in Nonprofits | To develop skills in vision-setting, goal alignment, and adaptive leadership, enabling nonprofits to navigate change and achieve long-term impact. | [Strategic Planning for Nonprofit Organizations: A Practical Guide for Dynamic Times by Michael Allison and Jude Kaye](https://www.amazon.com/Strategic-Planning-Nonprofit-Organizations-Practical/dp/1118768140) | Covered in NonprofitReady.org leadership and strategy courses |
-| Human Resources Management in Nonprofits | To address recruitment, retention, performance management, and legal aspects of managing staff in mission-oriented settings, fostering a supportive organizational culture. | [Human Resources Management for Public and Nonprofit Organizations: A Strategic Approach by Joan E. Pynes](https://www.amazon.com/Human-Resources-Management-Nonprofit-Organizations/dp/1118398629) | Free HR courses on [NonprofitReady.org](https://www.nonprofitready.org/nonprofit-human-resources-courses) |
-| Marketing and Communications for Nonprofits | To build skills in promoting missions, engaging stakeholders, and using digital/tools for outreach, enhancing visibility and support in competitive environments. | [The Nonprofit Marketing Guide: High-Impact, Low-Cost Ways to Build Support for Your Good Cause by Kivi Leroux Miller](https://www.amazon.com/Nonprofit-Marketing-Guide-High-Impact-Support/dp/111977103X) | [Nonprofit Marketing Essentials Certificate](https://www.nonprofitready.org/nonprofit-marketing-essentials) (NonprofitReady - free) |
-| Program Development and Evaluation | To design effective programs, measure outcomes, and use data for improvement, ensuring alignment with mission and demonstrable social impact. | [Nonprofit Program Evaluation Made Simple: Get Your Data, Show Your Impact, Improve Your Programs by Chari Smith](https://www.amazon.com/Nonprofit-Program-Evaluation-Made-Simple/dp/0578803887) | [How to Create a Program Evaluation for Your Non-Profit](https://www.coursera.org/projects/program-evaluation-non-profit) (Coursera Guided Project - free) |
-| Ethics and Social Justice in Nonprofit Management | To explore ethical decision-making, equity principles, and social justice integration, equipping leaders to handle dilemmas and promote inclusive practices. | [Ethics Management for Public and Nonprofit Managers: Leading and Building Organizations of Integrity by Donald C. Menzel](https://www.amazon.com/Ethics-Management-Public-Nonprofit-Managers/dp/0765632639) | Various ethics-related modules on [NonprofitReady.org](https://www.nonprofitready.org/) |
+1. **I. Foundations of the Nonprofit Sector**  
+   Start here. This section explains what the nonprofit world actually is.
 
+2. **II. Governance, Law, and Ethics**  
+   Next. You need to understand who is legally and ethically responsible for running a nonprofit.
 
-## Advanced Nonprofit Management
+3. **III. Financial and Human Systems**  
+   After governance, learn how nonprofits handle money and people — two areas that determine whether an organization survives.
 
-### Fundraising and Development
+4. **V. External Relations and Resource Development**  
+   Finally (of the core), study how nonprofits bring in the money and build relationships with the outside world.
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Advanced Fundraising Strategies | To delve into major gifts, capital campaigns, and donor analytics, optimizing long-term funding streams beyond basic development. | [Achieving Excellence in Fundraising by Eugene R. Tempel, Timothy L. Seiler, and Dwight F. Burlingame](https://archive.org/details/achievingexcelle0004unse_q3l7) | Covered in advanced fundraising courses on [NonprofitReady.org](https://www.nonprofitready.org/free-fundraising-courses) |
-| Grant Writing for Nonprofits | To master proposal development, research funders, and craft compelling narratives, securing competitive grants for program support. | [The Only Grant-Writing Book You'll Ever Need by Ellen Karsh and Arlen Sue Fox](https://archive.org/details/isbn_9780465018697) | Free grant writing courses on [NonprofitReady.org](https://www.nonprofitready.org/grant-writing-classes) |
+### Specialization Tracks
 
-### Program Management
+The remaining sections are deeper or more directional. You do **not** need to study all of them. Pick 1–3 tracks that match your interests, career goals, or the type of nonprofit work you want to do.
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Volunteer Management in Nonprofits | To recruit, train, and retain volunteers effectively, leveraging them as key assets for program delivery and community engagement. | [The Volunteer Management Handbook: Leadership Strategies for Success by Tracy D. Connors](https://www.amazon.com/Volunteer-Management-Handbook-Leadership-Strategies/dp/0470604530) | Free volunteer management courses on [NonprofitReady.org](https://www.nonprofitready.org/) |
-| Risk and Crisis Management for Nonprofits | To identify risks, develop response plans, and build resilience, ensuring continuity during challenges like financial downturns or reputational issues. | [Managing Your Nonprofit for Resilience: Use This Nonprofit Risk Management Plan to Build Better Resilience by Ted Bilich](https://www.amazon.com/Manage-Your-Nonprofit-Resilience-Performance/dp/1394153821) |  |
+- **IV. Programs, Evaluation, and Impact**  
+  Best for people interested in designing, running, and measuring the actual programs and services nonprofits deliver.
 
-### Policy and Advocacy
+- **VI. Strategy, Leadership, and Organizational Change**  
+  Ideal if you want to understand (or eventually become) an executive director, lead major change, or help organizations grow and adapt.
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Advocacy and Public Policy for Nonprofits | To learn lobbying techniques, coalition-building, and policy analysis, enabling nonprofits to advocate for mission-related reforms. | [Nonprofits in Policy Advocacy: Their Strategies and Stories by Sheldon Gen and Amy Conley Wright](https://www.amazon.com/Nonprofits-Policy-Advocacy-Strategies-Stories/dp/3030436950) | [Advocacy](https://courses.philanthropyu.org/courses/course-v1:PhilanthropyU+Advocacy101+1_1.0_20180611_20180729/about) (Philanthropy University - free) |
-| Community Organizing and Coalition Building | To build partnerships and mobilize communities for advocacy, amplifying impact through collective action. | [Roots to Power: A Manual for Grassroots Organizing by Lee Staples](https://www.amazon.com/Roots-Power-Manual-Grassroots-Organizing/dp/1440833710) |  |
+- **VII. Specialized and Adjacent Domains**  
+  This is a collection of focused topics. Choose the ones most relevant to you:  
 
-### Social Entrepreneurship
+  - Volunteer Management: organizations that rely heavily on volunteers  
+  - Advocacy, Public Policy, and Government Relations: policy change or lobbying work  
+  - Community Organizing and Coalitions: grassroots movement building  
+  - Social Entrepreneurship and Innovation: starting new ventures or hybrid models  
+  - International and Global Nonprofit Management: working with NGOs outside your home country
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Social Entrepreneurship and Innovation | To integrate business principles with social missions, creating sustainable ventures that address societal problems. | [Social Entrepreneurship: What Everyone Needs to Know by David Bornstein and Susan Davis](https://www.amazon.com/Social-Entrepreneurship-Everyone-Needs-Know/dp/0195396332) | [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) (Coursera, Copenhagen Business School - audit free) |
-| Impact Measurement in Social Enterprises | To evaluate social return on investment and scale innovations, balancing profit and purpose. | [The Business of Good: Social Entrepreneurship and the New Bottom Line by Jason Haber](https://www.amazon.com/Business-Good-Social-Entrepreneurship-Bottom/dp/1599185865) | Covered in program evaluation resources above |
+## I. Foundations of the Nonprofit Sector
 
-### International Nonprofit Management
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| 1. The Nonprofit Sector and Civil Society | [Scope, history, nonprofit–government–market relations](https://www.brookings.edu/books/the-state-of-nonprofit-america/) — Salamon, *The State of Nonprofit America* (official Brookings page; full book purchase or library access, with open excerpts and related reports from Johns Hopkins legacy work) | [Coursera – *Introduction to the Nonprofit Sector* (University at Buffalo, audit)](https://www.coursera.org/learn/nonprofit-organizations) |
+| 2. Mission, Values, and Organizational Purpose | [Mission drift, legitimacy, public trust](https://archive.org/details/managingnonprofi0000druc) — Drucker, *Managing the Non-Profit Organization* (Internet Archive free borrow/digital scan) | [NonprofitReady – *Mission, Vision, and Values*](https://www.nonprofitready.org/) (free registration required for full courses; search site for related modules) |
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| International Nonprofit Operations | To manage cross-border programs, navigate cultural differences, and handle international regulations for global impact. | [Management of International Institutions and NGOs: Frameworks, Practices and Challenges by Eduardo Missoni and Daniele Alesani](https://www.amazon.com/Management-International-Institutions-NGOs-Challenges/dp/0415706653) | Various international-focused modules on [NonprofitReady.org](https://www.nonprofitready.org/) or Philanthropy University courses |
-| Global Fundraising and Partnerships | To adapt fundraising and collaboration strategies for international contexts, building networks across diverse regions. | [Global Fundraising: How the World is Changing the Rules of Philanthropy by Penelope Cagney and Bernard Ross](https://www.wiley.com/en-us/Global+Fundraising%3A+How+the+World+is+Changing+the+Rules+of+Philanthropy-p-9781118653753) |  |
+## II. Governance, Law, and Ethics
 
-## Capstone
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| 3. Nonprofit Governance and Boards | [Fiduciary duties, board–staff relations](https://boardsource.org/) — BoardSource – Governance Knowledge Center (free) | [Coursera – *Introduction to Nonprofit Law* (UPenn, audit)](https://www.coursera.org/learn/introduction-to-nonprofit-law) |
+| 4. Legal Structures and Compliance | [Tax exemption, reporting, regulation](https://www.councilofnonprofits.org/running-nonprofit/how-start-nonprofit/step-5-ongoing-compliance) — National Council of Nonprofits – Legal Compliance Library | [NonprofitReady – *Nonprofit Compliance Basics*](https://www.nonprofitready.org/) (free registration required; search for compliance modules) |
+| 5. Ethics, Accountability, and Power | Menzel, *Ethics Management for Public and Nonprofit Managers* | [NonprofitReady – Ethics modules](https://www.nonprofitready.org/) (free registration required) |
 
-Design and present a comprehensive nonprofit management plan, such as launching a hypothetical organization, conducting a program evaluation case study, or developing an advocacy campaign. This applies theory to practice, demonstrating integrated knowledge in areas like finance, ethics, and strategy.
+## III. Financial and Human Systems
+
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| 6. Nonprofit Finance and Accounting Fundamentals | [Budgets, statements, stewardship](https://www.councilofnonprofits.org/) — National Council of Nonprofits – Nonprofit Finance Fundamentals | [Harvard – *Nonprofit Financial Stewardship* (free webinar series)](https://pll.harvard.edu/subject/nonprofit-financial-stewardship) (Harvard Online; some free access) |
+| 7. Revenue Models and Nonprofit Economics | Young, *Financing Nonprofits* (open-access articles) | [NonprofitReady – *Revenue Diversification*](https://www.nonprofitready.org/) (free registration required) |
+| 8. Human Resources and Organizational Culture | Pynes, *Human Resources Management for Public and Nonprofit Organizations* | [NonprofitReady – HR courses](https://www.nonprofitready.org/) (free registration required) |
+
+## IV. Programs, Evaluation, and Impact
+
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| 9. Program Design and Theory of Change | [Logic models, needs assessment](https://wkkf.issuelab.org/resource/logic-model-development-guide.html) — W.K. Kellogg Foundation – *Logic Model Development Guide* (free PDF) | [Philanthropy University – *Program Design*](https://philanthropyu.org/) (free courses) |
+| 10. Monitoring, Evaluation, and Learning | [Outcomes, data use](https://www.cdc.gov/evaluation/resources/developing-evaluation-plan/index.html) — CDC – *Developing an Effective Evaluation Plan* (free) | Coursera – *Program Evaluation for Nonprofits* (guided project) |
+
+## V. External Relations and Resource Development
+
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| 11. Fundraising and Resource Development | Sargeant & Shang, *Fundraising Principles and Practice* | [NonprofitReady – Fundraising Pathway](https://www.nonprofitready.org/) (free registration required) |
+| 12. Grant Writing and Institutional Funding | [Karsh & Fox, *The Only Grant-Writing Book You’ll Ever Need* (Archive.org)](https://archive.org/details/onlygrantwriting0000kars) | [NonprofitReady – Grant Writing](https://www.nonprofitready.org/) (free registration required) |
+| 13. Marketing, Communications, and Public Trust | Kivi Leroux Miller, *The Nonprofit Marketing Guide* | [NonprofitReady – Marketing Essentials](https://www.nonprofitready.org/) (free registration required) |
+
+## VI. Strategy, Leadership, and Organizational Change
+
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| 14. Strategic Planning and Adaptive Leadership | Allison & Kaye, *Strategic Planning for Nonprofits* | [NonprofitReady – Strategy & Leadership](https://www.nonprofitready.org/) (free registration required) |
+| 15. Risk, Crisis, and Organizational Resilience | Bilich, *Managing Your Nonprofit for Resilience* | [FEMA – *Nonprofit Security & Resilience* (free modules)](https://www.fema.gov/emergency-managers/national-preparedness/continuous-improvement/nonprofit-security-resilience) |
+
+## VII. Specialized and Adjacent Domains
+
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| 16. Volunteer Management | Connors, *The Volunteer Management Handbook* | [NonprofitReady – Volunteer Management](https://www.nonprofitready.org/) (free registration required) |
+| 17. Advocacy, Public Policy, and Government Relations | Gen & Wright, *Nonprofits in Policy Advocacy* | [Philanthropy University – *Advocacy 101*](https://philanthropyu.org/) (free courses) |
+| 18. Community Organizing and Coalitions | Staples, *Roots to Power* | [Philanthropy University – Community Organizing](https://philanthropyu.org/) (free courses) |
+| 19. Social Entrepreneurship and Innovation | Bornstein & Davis, *Social Entrepreneurship* | [Coursera – *Social Entrepreneurship* (CBS, audit)](https://www.coursera.org/learn/social-entrepreneurship) |
+| 20. International and Global Nonprofit Management | Missoni & Alesani, *Management of International NGOs* | [Philanthropy University – Global NGO courses](https://philanthropyu.org/) (free courses) |
 
 ## Congratulations
 
