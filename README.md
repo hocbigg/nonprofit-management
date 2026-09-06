@@ -53,7 +53,6 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 - [Programs, Evaluation, and Impact](#programs-evaluation-and-impact)
 - [External Relations and Resource Development](#external-relations-and-resource-development)
 - [Strategy, Leadership, and Organizational Change](#strategy-leadership-and-organizational-change)
-- [Specialized and Adjacent Domains](#specialized-and-adjacent-domains)
 
 ## How to use this curriculum
 
@@ -61,48 +60,69 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 
 Study them **in this exact order**:
 
-1. **Foundations of the Nonprofit Sector**  
-   Start here. This section explains what the nonprofit world actually is.
+1. **Foundations of the Nonprofit Sector**
+   Start here. This section explains what the nonprofit sector is, its historical roots, its societal purpose, and why it exists alongside government and the market.
 
-2. **Governance, Law, and Ethics**  
-   Next. You need to understand who is legally and ethically responsible for running a nonprofit.
+2. **Governance, Law, and Ethics**
+   Next. Understand the legal forms, fiduciary duties of the board of directors, tax-exemption laws, ethical standards, and public policy advocacy.
 
-3. **Financial and Human Systems**  
-   After governance, learn how nonprofits handle money and people — two areas that determine whether an organization survives.
+3. **Financial and Human Systems**
+   Learn how nonprofits manage money and people — mastering nonprofit accounting, diverse revenue models, paid staff human resources, and volunteer administration.
 
-4. **External Relations and Resource Development**  
-   Finally (of the core), study how nonprofits bring in the money and build relationships with the outside world.
+4. **Programs, Evaluation, and Impact**
+   Examine how nonprofits design mission-aligned programs, develop logic models and Theories of Change, and measure social outcomes and impact.
+
+5. **External Relations and Resource Development**
+   Study how organizations generate resources and connect with communities through ethical fundraising, grant proposal writing, and strategic communications.
+
+6. **Strategy, Leadership, and Organizational Change**
+   Synthesize your management knowledge by learning strategic planning frameworks, executive leadership practices, and adaptive change management.
 
 ## Foundations of the Nonprofit Sector
 
 | Subject | Book / Text | Online Resource |
 | --- | --- | --- |
-| The Nonprofit Sector and Civil Society | [Scope, history, nonprofit–government–market relations](https://www.brookings.edu/books/the-state-of-nonprofit-america/) — Salamon, *The State of Nonprofit America*  | [Coursera – *Introduction to the Nonprofit Sector* (University at Buffalo, audit)](https://www.coursera.org/learn/nonprofit-organizations) |
-| Mission, Values, and Organizational Purpose | [Mission drift, legitimacy, public trust](https://archive.org/details/managingnonprofi0000druc) — Drucker, *Managing the Non-Profit Organization* | [NonprofitReady – *Mission, Vision, and Values*](https://www.nonprofitready.org/) |
+| The Nonprofit Sector and Civil Society | Worth, *Nonprofit Management: Principles and Practice* (SAGE); Salamon, [*The State of Nonprofit America*](https://www.brookings.edu/books/the-state-of-nonprofit-america/) (Brookings) | [Coursera – *Introduction to the Nonprofit Sector, Nonprofit Organizations, Nonprofit Leadership and Governance* (University at Buffalo, audit)](https://www.coursera.org/learn/nonprofit-organizations) |
+| Mission, Values, and Organizational Purpose | Drucker, [*Managing the Non-Profit Organization: Principles and Practices*](https://archive.org/details/managingnonprofi0000druc) (HarperBusiness); Powell & Bromley (eds.), *The Nonprofit Sector: A Research Handbook* (Stanford University Press) | [BoardSource – *Mission, Vision, and Values Knowledge Center*](https://boardsource.org/) |
 
 ## Governance, Law, and Ethics
 
 | Subject | Book / Text | Online Resource |
 | --- | --- | --- |
-| Nonprofit Governance and Boards | [Fiduciary duties, board–staff relations](https://boardsource.org/) — BoardSource – Governance Knowledge Center (free) | [Coursera – *Introduction to Nonprofit Law* (UPenn, audit)](https://www.coursera.org/learn/introduction-to-nonprofit-law) |
-| Legal Structures and Compliance | [Tax exemption, reporting, regulation](https://www.councilofnonprofits.org/running-nonprofit/how-start-nonprofit/step-5-ongoing-compliance) — National Council of Nonprofits – Legal Compliance Library | [NonprofitReady – *Nonprofit Compliance Basics*](https://www.nonprofitready.org/) |
-| Ethics, Accountability, and Power | Menzel, *Ethics Management for Public and Nonprofit Managers* | [NonprofitReady – Ethics modules](https://www.nonprofitready.org/) |
+| Nonprofit Governance and Boards | Renz & Brown (eds.), *The Jossey-Bass Handbook of Nonprofit Leadership and Management* (Wiley); BoardSource, [*Governance Knowledge Center*](https://boardsource.org/) | [Coursera – *The Roles and Responsibilities of Nonprofit Boards of Directors* (University at Buffalo, audit)](https://www.coursera.org/learn/nonprofit-gov-2) |
+| Legal Structures and Compliance | Hopkins, *The Law of Tax-Exempt Organizations* (Wiley); [National Council of Nonprofits – *Legal Compliance Library*](https://www.councilofnonprofits.org/running-nonprofit/how-start-nonprofit/step-5-ongoing-compliance) | [Coursera – *Introduction to Nonprofit Law* (University of Pennsylvania, audit)](https://www.coursera.org/learn/introduction-to-nonprofit-law) |
+| Ethics, Accountability, and Public Trust | Menzel, *Ethics Management for Public and Nonprofit Managers* (Routledge); Independent Sector, *Principles for Good Governance and Ethical Practice* | [NonprofitReady – *Ethics and Accountability Essentials*](https://www.nonprofitready.org/) |
+| Public Policy, Advocacy, and Civic Engagement | Boris & Steuerle (eds.), *Nonprofits and Government: Collaboration and Conflict* (Urban Institute Press); Avner, *The Nonprofit Advocacy Handbook* | [Bolder Advocacy – *Resource Library for Nonprofit Advocacy and 501(c)(3) Lobbying Rules*](https://bolderadvocacy.org/) |
 
 ## Financial and Human Systems
 
 | Subject | Book / Text | Online Resource |
 | --- | --- | --- |
-| Nonprofit Finance and Accounting Fundamentals | [Budgets, statements, stewardship](https://www.councilofnonprofits.org/) — National Council of Nonprofits – Nonprofit Finance Fundamentals | [Harvard – *Nonprofit Financial Stewardship* (free webinar series)](https://pll.harvard.edu/subject/nonprofit-financial-stewardship) (Harvard Online; some free access) |
-| Revenue Models and Nonprofit Economics | Young, *Financing Nonprofits* (open-access articles) | [NonprofitReady – *Revenue Diversification*](https://www.nonprofitready.org/) |
-| Human Resources and Organizational Culture | Pynes, *Human Resources Management for Public and Nonprofit Organizations* | [NonprofitReady – HR courses](https://www.nonprofitready.org/) |
+| Nonprofit Finance and Accounting Fundamentals | Finkler, Smith, & Calabrese, *Financial Management for Public, Health, and Not-for-Profit Organizations* (CQ Press / SAGE) | [Harvard Online – *Nonprofit Financial Stewardship Webinar Series*](https://pll.harvard.edu/subject/nonprofit-financial-stewardship) |
+| Revenue Models and Nonprofit Economics | Young, Searing, & Brewer, *The Social Enterprise Zoo: A Guide for Perplexed Scholars, Entrepreneurs, and Philanthropists* (Edward Elgar); Young, *Financing Nonprofits* | [National Council of Nonprofits – *Nonprofit Financial and Revenue Management*](https://www.councilofnonprofits.org/) |
+| Human Resource Management and Volunteer Administration | Pynes, *Human Resources Management for Public and Nonprofit Organizations* (Jossey-Bass); Connors, *The Volunteer Management Handbook* (Wiley) | [NonprofitReady – *Volunteer Management and HR Pathways*](https://www.nonprofitready.org/) |
+
+## Programs, Evaluation, and Impact
+
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| Program Design, Logic Models, and Theory of Change | Newcomer, Hatry, & Wholey (eds.), *Handbook of Practical Program Evaluation* (Jossey-Bass / Wiley); W.K. Kellogg Foundation, *Logic Model Development Guide* | [Coursera – *How to Create a Program Evaluation for Your Non-Profit* (Coursera Project Network)](https://www.coursera.org/learn/program-evaluation-non-profit) |
+| Outcome Measurement and Impact Evaluation | Rossi, Lipsey, & Henry, *Evaluation: A Systematic Approach* (SAGE); Epstein & Yuthas, *Measuring and Improving Social Impacts* (Berrett-Koehler) | [Urban Institute – *Outcome Indicators Project for Nonprofits*](https://www.urban.org/) |
 
 ## External Relations and Resource Development
 
 | Subject | Book / Text | Online Resource |
 | --- | --- | --- |
-| Fundraising and Resource Development | Sargeant & Shang, *Fundraising Principles and Practice* | [NonprofitReady – Fundraising Pathway](https://www.nonprofitready.org/) |
-| Grant Writing and Institutional Funding | [Karsh & Fox, *The Only Grant-Writing Book You’ll Ever Need* (Archive.org)](https://archive.org/details/onlygrantwriting0000kars) | [NonprofitReady – Grant Writing](https://www.nonprofitready.org/) |
-| Marketing, Communications, and Public Trust | Kivi Leroux Miller, *The Nonprofit Marketing Guide* | [NonprofitReady – Marketing Essentials](https://www.nonprofitready.org/) |
+| Fundraising Principles and Philanthropic Giving | Shaker, Tempel, Nathan, & Strawn (eds.), *Achieving Excellence in Fundraising* (Jossey-Bass / Wiley); Sargeant & Shang, *Fundraising Principles and Practice* (Wiley) | [Coursera – *Fundraising and Development Specialization* (UC Davis, audit)](https://www.coursera.org/specializations/fundraising-development) |
+| Grant Writing and Institutional Funding | Fox & Karsh, [*The Only Grant-Writing Book You’ll Ever Need*](https://archive.org/details/onlygrantwriting0000kars) (Basic Books); Browning, *Grant Writing For Dummies* (Wiley) | [Candid Learning – *Trainings in Nonprofit Fundraising, Proposal Writing, and Grants*](https://learning.candid.org/) |
+| Marketing, Communications, and Public Relations | Andreasen & Kotler, *Strategic Marketing for Non-Profit Organizations* (Pearson); Miller, *The Nonprofit Marketing Guide* (Jossey-Bass) | [NonprofitReady – *Marketing and Communications Essentials*](https://www.nonprofitready.org/) |
+
+## Strategy, Leadership, and Organizational Change
+
+| Subject | Book / Text | Online Resource |
+| --- | --- | --- |
+| Strategic Planning and Management | Bryson & George, *Strategic Planning for Public and Nonprofit Organizations* (Jossey-Bass / Wiley); Allison & Kaye, *Strategic Planning for Nonprofit Organizations* (Wiley) | [Coursera – *Foundations of Strategic Planning for Public & Nonprofits* (John Wiley & Sons, audit)](https://www.coursera.org/learn/wiley-foundations-of-strategic-planning-for-public-and-nonprofits) |
+| Executive Leadership and Organizational Change | Heifetz, Grashow, & Linsky, *The Practice of Adaptive Leadership* (Harvard Business Press); Renz & Brown (eds.), *The Jossey-Bass Handbook of Nonprofit Leadership and Management* (Wiley) | [Coursera – *Improving Leadership & Governance in Nonprofit Organizations Specialization* (University at Buffalo, audit)](https://www.coursera.org/specializations/nonprofit) |
 
 # Code of conduct
 
