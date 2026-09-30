@@ -1,4 +1,4 @@
-# Great Readings
+# Great Readings in Nonprofit Management
 
 This curated bibliography brings together seminal theoretical essays, landmark empirical studies, and critical monographs in Nonprofit Management and Philanthropic Studies. These texts represent milestone intellectual breakthroughs that formulate the economic, sociological, political, and strategic paradigms of the social sector.
 
@@ -9,37 +9,44 @@ This curated bibliography brings together seminal theoretical essays, landmark e
 
 ## Foundations of Civil Society, Philanthropy, and Voluntary Action
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :-- | :-- | :-- | :-- |
-| [*Democracy in America* (Vol. II, Book II, Ch. 5: "Of the Use Which the Americans Make of Public Associations in Civil Life")](https://archive.org/details/democracyinameri0000toce) | Alexis de Tocqueville | Primary Text | Formulates the classic philosophical argument that voluntary civic associations serve as the indispensable bulwark against majoritarian tyranny and democratic isolation. |
-| [*The Role of Nonprofit Enterprise*](https://www.jstor.org/stable/796089) | Henry Hansmann | Landmark Paper | Introduces the canonical "contract failure" theory, establishing why consumers turn to nonprofits in markets characterized by severe information asymmetry and the non-distribution constraint. |
-| *Toward a Theory of the Voluntary Non-Profit Sector in a Three-Sector Economy* | Burton A. Weisbrod | Landmark Paper / Monograph | Formulates the foundational "government failure" economic model, explaining how nonprofits emerge to satisfy unsatisfied heterogeneous demand for public goods. |
-| *Of Market Failure, Voluntary Failure, and Third-Party Government: Toward a Theory of Government-Nonprofit Relations in the Modern Welfare State* | Lester M. Salamon | Landmark Paper | Inverts classical market-failure theories by demonstrating that voluntary action is the primary societal response to collective needs, with government stepping in to address systemic "voluntary failures." |
-| *Inventing the Nonprofit Sector and Other Essays on Philanthropy, Voluntarism, and Charity* | Peter Dobkin Hall | Monograph | Provides the definitive intellectual and legal history of how 19th- and 20th-century institutional elites constructed the modern American nonprofit framework. |
+| Title | Author(s) |
+| :-- | :-- |
+| [*Democracy in America* (Vol. II, Book II, Ch. 5: "Of the Use Which the Americans Make of Public Associations in Civil Life")](https://www.gutenberg.org/ebooks/816) | Alexis de Tocqueville |
+| [*The Gospel of Wealth*](https://www.gutenberg.org/ebooks/64241) | Andrew Carnegie |
+| [*The Role of Nonprofit Enterprise*](https://openyls.law.yale.edu/handle/20.500.13051/4588) | Henry Hansmann |
+| *Toward a Theory of the Voluntary Non-Profit Sector in a Three-Sector Economy* | Burton A. Weisbrod |
+| *Of Market Failure, Voluntary Failure, and Third-Party Government: Toward a Theory of Government-Nonprofit Relations in the Modern Welfare State* | Lester M. Salamon |
+| [*Bowling Alone: The Collapse and Revival of American Community*](https://books.google.com/books?isbn=9780743203043) | Robert D. Putnam |
+| [*Inventing the Nonprofit Sector and Other Essays on Philanthropy, Voluntarism, and Charity*](https://books.google.com/books?isbn=9780801869792) | Peter Dobkin Hall |
 
 ## Organizational Theory, Governance, and Institutional Dynamics
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :-- | :-- | :-- | :-- |
-| [*The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields*](https://www.jstor.org/stable/2095101) | Paul J. DiMaggio and Walter W. Powell | Landmark Paper | The foundational text of neo-institutional theory, demonstrating why nonprofits undergo coercive, mimetic, and normative isomorphism to resemble government agencies and corporations. |
-| *Governance as Leadership: Reframing the Work of Nonprofit Boards* | Richard P. Chait, William P. Ryan, and Barbara E. Taylor | Monograph | Radically reframes board oversight by moving beyond technical fiduciary compliance into strategic and sense-making "generative" modes of organizational governance. |
-| *Accountability in Practice: Mechanisms for NGOs* | Alnoor Ebrahim | Landmark Paper | Develops the seminal conceptual typology distinguishing upward, downward, internal, and external accountability mechanisms in mission-driven organizations. |
-| [*The Looking-Glass World of Nonprofit Money: Managing in For-Profits' Shadow Universe*](https://nonprofitquarterly.org/the-looking-glass-world-of-nonprofit-money-managing-in-for-profits-shadow-universe/) | Clara Miller | Landmark Essay | Decodes the structural economic perversities of nonprofit capitalization, illuminating why standard for-profit financial assumptions fail in restricted-revenue environments. |
+| Title | Author(s) |
+| :-- | :-- |
+| [*The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields*](https://periodicos.fgv.br/rae/article/view/37123) | Paul J. DiMaggio and Walter W. Powell |
+| [*Governance as Leadership: Reframing the Work of Nonprofit Boards*](https://books.google.com/books?isbn=9780471684206) | Richard P. Chait, William P. Ryan, and Barbara E. Taylor |
+| [*Nonprofits for Hire: The Welfare State in the Age of Contracting*](https://books.google.com/books?isbn=9780674626393) | Steven Rathgeb Smith and Michael Lipsky |
+| [*The Looking-Glass World of Nonprofit Money: Managing in For-Profits' Shadow Universe*](https://nonprofitquarterly.org/the-looking-glass-world-of-nonprofit-money-managing-in-for-profits-shadow-universe/) | Clara Miller |
+| [*The Nonprofit Starvation Cycle*](https://ssir.org/articles/entry/the_nonprofit_starvation_cycle) | Ann Goggins Gregory and Don Howard |
+| [*Measuring Social Change: Performance and Accountability in a Complex World*](https://books.google.com/books?isbn=9781503601406) | Alnoor Ebrahim |
 
 ## Philanthropy, Power, and Democratic Critiques
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :-- | :-- | :-- | :-- |
-| *Just Giving: Why Philanthropy Is Failing Democracy and How It Can Do Better* | Rob Reich | Monograph | Applies rigorous political philosophy to expose how tax-subsidized, unaccountable private foundations can exercise plutocratic power and undermine democratic equality. |
-| *The Revolution Will Not Be Funded: Beyond the Non-Profit Industrial Complex* | INCITE! Women of Color Against Violence (eds.) | Edited Anthology | Landmark radical critique analyzing how foundation funding streams and 501(c)(3) legal constraints co-opt, bureaucratize, and deradicalize grassroots social justice movements. |
-| *Winners Take All: The Elite Charade of Changing the World* | Anand Giridharadas | Book | Delivers an incisive structural critique of "MarketWorld" elites who champion win-win philanthropy while leaving the extractive market systems generating inequality unchallenged. |
-| *Strategic Giving: The Art and Science of Philanthropy* | Peter Frumkin | Monograph | Examines the central tensions between expressive giving and instrumental impact, providing a foundational framework for evaluating philanthropic effectiveness. |
+| Title | Author(s) |
+| :-- | :-- |
+| [*Just Giving: Why Philanthropy Is Failing Democracy and How It Can Do Better*](https://books.google.com/books?isbn=9780691202273) | Rob Reich |
+| [*The Revolution Will Not Be Funded: Beyond the Non-Profit Industrial Complex*](https://books.google.com/books?isbn=9780822369004) | INCITE! Women of Color Against Violence (eds.) |
+| [*Winners Take All: The Elite Charade of Changing the World*](https://books.google.com/books?isbn=9780451493248) | Anand Giridharadas |
+| [*Strategic Giving: The Art and Science of Philanthropy*](https://books.google.com/books?isbn=9780226266268) | Peter Frumkin |
+| [*Decolonizing Wealth: Indigenous Wisdom to Heal Divides and Restore Balance*](https://books.google.com/books?isbn=9781523091416) | Edgar Villanueva |
 
 ## Strategy, Social Innovation, and Systems Change
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :-- | :-- | :-- | :-- |
-| [*The Meaning of Social Entrepreneurship*](https://case.fuqua.duke.edu/wp-content/uploads/2025/02/Knowledge-database-Paper-e1696441071856.png) | J. Gregory Dees | Landmark Essay | The field-defining essay that established social entrepreneurship as an academic discipline, defining it as mission-driven innovation, continuous adaptation, and resource leverage. |
-| [*Collective Impact*](https://ssir.org/articles/entry/collective_impact) | John Kania and Mark Kramer | Landmark Paper | Introduces the widely adopted five-condition framework for multi-sector cross-organizational collaboration against complex, systemic community challenges. |
-| *Innovation and Scaling for Impact: How Effective Social Enterprises Do It* | Christian Seelos and Johanna Mair | Monograph | Empirical breakthrough examining why many social innovations fail to scale and establishing how organizations systematically balance innovation with operational scaling. |
-| *Making Nonprofits Work: A Report on the Tides of Nonprofit Management Reform* | Paul C. Light | Monograph | A landmark empirical investigation into the recurring cycles and fads of management reform, identifying what genuinely drives organizational capacity and resilience. |
+| Title | Author(s) |
+| :-- | :-- |
+| [*The Meaning of Social Entrepreneurship*](https://case.fuqua.duke.edu/knowledge-database-item/the-meaning-of-social-entrepreneurship/) | J. Gregory Dees |
+| [*Collective Impact*](https://ssir.org/articles/entry/collective_impact) | John Kania and Mark Kramer |
+| *Philanthropy's New Agenda: Creating Value* | Michael E. Porter and Mark R. Kramer |
+| [*How Nonprofits Get Really Big*](https://ssir.org/articles/entry/how_nonprofits_get_really_big) | William Foster and Gail Fine |
+| [*Innovation and Scaling for Impact: How Effective Social Enterprises Do It*](https://books.google.com/books?isbn=9780804797344) | Christian Seelos and Johanna Mair |
+| [*Making Nonprofits Work: A Report on the Tides of Nonprofit Management Reform*](https://books.google.com/books?isbn=9780815752455) | Paul C. Light |
